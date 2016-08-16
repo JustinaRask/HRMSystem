@@ -1,0 +1,6 @@
+c:\projects\hrmSystem\hrmSystem\bin\Debug\hrmSystem.exe.config
+c:\projects\hrmSystem\hrmSystem\obj\Debug\hrmSystem.csprojResolveAssemblyReference.cache
+c:\projects\hrmSystem\hrmSystem\bin\Debug\hrmSystem.exe
+c:\projects\hrmSystem\hrmSystem\bin\Debug\hrmSystem.pdb
+c:\projects\hrmSystem\hrmSystem\obj\Debug\hrmSystem.exe
+c:\projects\hrmSystem\hrmSystem\obj\Debug\hrmSystem.pdb
